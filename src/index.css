@@ -9,3 +9,6 @@ body {
   background-color: rgba(255, 255, 255, 0.5);
   padding: 20px;
 }
+img {
+  width: 500px;
+}
