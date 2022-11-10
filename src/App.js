@@ -1,7 +1,7 @@
 import './App.css';
 import AllCategories from './Components/AllCategories/AllCategories';
 import Cart from './Components/Cart/Cart';
-import Dishes from '.Components/DishesComponent/Dishes';
+import Dishes from '/.Components/DishesComponent/Dishes';
 
 function App() {
   return (

@@ -1,6 +1,8 @@
 const AllCategories = () => {
     return (
-        <div>AllCategories</div>
+        <div>
+            <p>What kind of food to you like?</p>
+        </div>
     )
 }
 
