@@ -1,4 +1,4 @@
-import data from './Components/data/dataDishes';
+import data from './data./dataDishes';
 
 const Dish = ({dish}) => {
     return (<div>
