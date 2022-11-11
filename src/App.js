@@ -1,7 +1,9 @@
 import './App.css';
-import AllCategories from './Components/AllCategories/AllCategories';
+import AllCategories from './Components/Filter/AllCategories';
 import Cart from './Components/Cart/Cart';
-import Dishes from '/.Components/DishesComponent/Dishes';
+import Dishes from './Components/DishesComponent/Dishes';
+
+
 
 function App() {
   return (
@@ -11,7 +13,9 @@ function App() {
       <Cart />
      </div>
      <div className="block">
-      <Dishes/>
+    <Dishes/>
+
+
      </div>
     </div>
   );
