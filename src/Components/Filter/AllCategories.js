@@ -4,10 +4,9 @@ const AllCategories = () => {
     return (
         <div>
             <p>What kind of food to you like?</p>
-            
-            <Filter/>
-        </div>
-    )
+            {['SEAFOOD', 'ITALIAN', 'APPRTIZERS', 'SALADS', 'ALL'].map(category => <Filter category={category}/>
+            )}
+        </div>)
 }
 
 export default AllCategories;
