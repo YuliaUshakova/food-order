@@ -1,4 +1,3 @@
-import data from './data./dataDishes';
 
 const Dish = ({dish}) => {
     return (<div>

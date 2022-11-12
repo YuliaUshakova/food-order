@@ -15,3 +15,14 @@ img {
 .cartIcon {
   width: 70px;
 }
+
+.categoryButton:hover {
+background-color: #fdeb6b;;
+cursor: pointer;
+margin: 5px;
+padding: 5px;
+}
+
+.categoryButtonSelected:hover {
+background-color: green;
+}

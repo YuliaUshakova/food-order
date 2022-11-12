@@ -1,4 +1,4 @@
-import dataDishes from './data/dataDishes';
+import dataDishes from '../../data/dataDishes';
 import Dish from './Dish';
 
     const Dishes = () => {
