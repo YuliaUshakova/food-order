@@ -22,6 +22,24 @@ cursor: pointer;
 margin: 5px;
 padding: 5px;
 }
+.icon {
+  width: 20px;
+}
+.cartPic {
+  width: 100px;
+}
+
+p, h1, h2, button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+button {
+  background-color: #fdeb6b;
+  margin-top: 40px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
 
 .categoryButtonSelected:hover {
 background-color: green;
